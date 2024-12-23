@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MercuryApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello!!!!!");
+		System.out.println("App is about to work!");
 
 		SpringApplication.run(MercuryApplication.class, args);
 	}
