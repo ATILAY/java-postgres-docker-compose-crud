@@ -27,7 +27,7 @@ services:
 volumes:
   pgdata: {}
 # commands
-#m mvn clean package -DskipTests
+#mvn clean package -DskipTests
 # docker-compose --env-file .env  up -d
 
 # Build a CRUD Rest API in Java using Spring boot, Hibernate, Postgres, Docker and Docker Compose
